@@ -1,1 +1,1 @@
-export const input=[10, 2, 38, 23, 38, 23, 21];
+export const input=[2,3,2,4,5,2,3,4,3,9,10];
