@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/avilavate/MachineLearning/issues"
   },
-  "homepage": "https://github.com/avilavate/MachineLearning#readme"
+  "homepage": "https://github.com/avilavate/MachineLearning#readme",
+  "devDependencies": {
+    "cli-chart": "^0.3.1"
+  }
 }

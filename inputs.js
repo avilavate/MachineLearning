@@ -1,2 +1,2 @@
 "use strict";
-exports.input = [2, 4, 4, 4, 5, 5, 7, 9];
+exports.input = [10, 2, 38, 23, 38, 23, 21, 100];
