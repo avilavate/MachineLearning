@@ -22,7 +22,7 @@ var StdDaviation = (function () {
         this.stdDaviation = res;
     };
     StdDaviation.prototype.isOutlier = function (input) {
-        return (input - this.average) / this.stdDaviation > 2;
+        return ((input - this.average) / this.stdDaviation) > 0;
     };
     return StdDaviation;
 }());

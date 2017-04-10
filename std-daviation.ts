@@ -21,6 +21,6 @@ export class StdDaviation {
     }
 
     isOutlier(input: number): boolean {
-        return (input - this.average) / this.stdDaviation > 2;
+        return ((input - this.average) / this.stdDaviation) > 0;
     }
 }
