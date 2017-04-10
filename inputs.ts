@@ -1,0 +1,1 @@
+export const input=[10,2,38,23,38,23,21];
